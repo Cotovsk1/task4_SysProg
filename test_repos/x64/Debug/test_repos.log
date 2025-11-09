@@ -1,0 +1,5 @@
+﻿  test.cpp
+D:\vs_mkr_test1\stringProcessor.h(12,34): warning C4114: same type qualifier used more than once
+  (compiling source file '/test.cpp')
+  
+  test_repos.vcxproj -> D:\vs_mkr_test1\x64\Debug\test_repos.exe
